@@ -42,7 +42,7 @@ var restaurants = [
   },
   {
     id: 3,
-    name: "Karma",
+    name: "Karmas",
     description:
       "Malaysian-Chinese-Japanese fusion, with great bar and bartenders",
     dishes: [
